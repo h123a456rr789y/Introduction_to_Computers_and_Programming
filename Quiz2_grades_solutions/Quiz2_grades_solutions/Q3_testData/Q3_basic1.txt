@@ -1,0 +1,14 @@
+13333
+1 11 101
+assign
+Jace    2 22 1    Jace01@citizen.com
+Ian     1 69 88   Ian02@citizen.com
+Cooper  101 11 68 Cooper03@foreigner.com
+Easton  11 1 101  AA04@citizen.com
+Kevin   5 9 87    BC05@foreigner.com
+
+show
+sort name
+sort prize
+clear
+show

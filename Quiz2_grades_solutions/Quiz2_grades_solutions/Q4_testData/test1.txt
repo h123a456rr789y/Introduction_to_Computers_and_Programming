@@ -1,0 +1,7 @@
+6
+2
+5
+2 4 5 6 0
+
+There are 1 longest Sequences(length 5):
+5 4 5 6 2

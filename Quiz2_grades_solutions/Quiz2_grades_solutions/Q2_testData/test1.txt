@@ -1,0 +1,11 @@
+inptut:
+	1
+	
+inptut:
+	2
+	apple
+	
+inptut:
+	4
+output: 
+	apple(length:5, capacity:5)

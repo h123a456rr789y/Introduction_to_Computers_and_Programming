@@ -1,0 +1,23 @@
+inptut:
+	1
+	
+inptut:
+	2
+	HelloWorld_
+	
+inptut:
+	4
+output: 
+	HelloWorld_(length:11, capacity:11)
+
+inptut:
+	5
+	
+inptut:
+	2
+	Hello_
+
+inptut:
+	4
+output: 
+	Hello_(length:6, capacity:11)

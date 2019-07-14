@@ -1,0 +1,53 @@
+inptut:
+	1
+	
+inptut:
+	3
+	aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhh
+	
+inptut:
+	4
+output: 
+	aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhh(length:80, capacity:80)
+
+inptut:
+	3
+	aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhh
+	
+inptut:
+	4
+output: 
+	aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhaaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhh(length:160, capacity:160)
+
+inptut:
+	2
+	abcdefgh
+	
+inptut:
+	4
+output: 
+	abcdefgh(length:8, capacity:160)
+	
+inptut:
+	2
+	aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhaaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhaaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhh
+
+inptut:
+	4
+output: 
+	aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhaaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhaaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhh(length:240, capacity:240)
+
+inptut:
+	6
+
+inptut:
+	1
+	
+inptut:
+	2
+	apple
+
+inptut:
+	4
+output: 
+	apple(length:5, capacity:5)

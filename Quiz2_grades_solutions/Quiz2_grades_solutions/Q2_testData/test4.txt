@@ -1,0 +1,32 @@
+inptut:
+	1
+
+inptut:
+	3
+	WantSomeCake_
+	
+inptut:
+	4
+output: 
+	WantSomeCake_(length:13, capacity:13)	
+
+inptut:
+	2
+	WhereIsMyCake_
+	
+inptut:
+	4
+output: 
+	WhereIsMyCake_(length:14, capacity:14)
+
+inptut:
+	5
+	
+inptut:
+	3
+	TheCakeIsALie
+
+inptut:
+	4
+output: 
+	TheCakeIsALie(length:13, capacity:14)

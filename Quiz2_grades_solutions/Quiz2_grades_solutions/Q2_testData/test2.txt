@@ -1,0 +1,15 @@
+inptut:
+	1
+	
+inptut:
+	2
+	banana
+	
+inptut:
+	3
+	Cat
+	
+inptut:
+	4
+output: 
+	bananaCat(length:9, capacity:9)

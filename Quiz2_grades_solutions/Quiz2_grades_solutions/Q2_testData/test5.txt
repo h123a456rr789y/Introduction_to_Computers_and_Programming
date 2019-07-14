@@ -1,0 +1,55 @@
+input:
+	1
+
+input:
+	2
+	I_have_a_dream
+
+input:
+	3
+	_today
+	
+inptut:
+	4
+output: 
+	I_have_a_dream_today(length:20, capacity:20)	
+	
+input:
+	2
+	I_have_a_pen
+	
+inptut:
+	4
+output: 
+	I_have_a_pen(length:12, capacity:20)
+	
+inptut:
+	5
+	
+inptut:
+	4	
+output: 
+	(length:0, capacity:20)
+
+inptut:
+	6
+	
+intput:
+	1
+	
+input:
+	3
+	_apple_apple_apple_apple_apple_apple
+	
+input:
+	3
+	_apple_apple_apple_apple_apple_apple
+
+input:
+	3
+	_apple_apple_apple_apple_apple_apple
+	
+inptut:
+	4
+output:
+	_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple(length:108, capacity:108)
