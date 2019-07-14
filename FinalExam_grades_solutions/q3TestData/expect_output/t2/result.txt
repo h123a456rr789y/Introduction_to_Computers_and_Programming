@@ -1,0 +1,7 @@
+Player: Bob
+     Cap  -5  20  30
+   Armor  10  10  10
+   Armor  10  10  10
+  Dagger 100  50  30
+--------------------
+  Total: 115  90  80

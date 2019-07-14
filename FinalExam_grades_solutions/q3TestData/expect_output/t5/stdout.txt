@@ -1,0 +1,33 @@
+Load items from items.txt: 
+Error happen at line 53, too many effect values!!
+Error happen at line 311, too many effect values!!
+Error happen at line 362, item "ajw4t" already exist!!
+Error happen at line 392, item "cxa25" already exist!!
+Error happen at line 397, item "5mbuk" already exist!!
+Error happen at line 445, item "ke3sz" already exist!!
+Error happen at line 470, too few effect values!!
+Error happen at line 482, too few effect values!!
+Error happen at line 529, item "2vho87" already exist!!
+Error happen at line 594, too many effect values!!
+Error happen at line 598, item "bfqs" already exist!!
+Error happen at line 643, item "vb4g" already exist!!
+Error happen at line 658, item "h1s6r" already exist!!
+Error happen at line 707, item "glso" already exist!!
+Error happen at line 732, item "dkdn" already exist!!
+Error happen at line 745, item "0avzg" already exist!!
+Error happen at line 834, item "njxqs" already exist!!
+Error happen at line 858, too few effect values!!
+Error happen at line 881, too many effect values!!
+Error happen at line 916, too many effect values!!
+Error happen at line 943, item "xv7u" already exist!!
+Error happen at line 1002, item "c0ulavy" already exist!!
+Error happen at line 1040, item "1b3" already exist!!
+Success load 977 items!!
+
+Calculate total effects from player.txt: 
+Error happen at line 6, cannot find item "5lit"!!
+Error happen at line 31, cannot find item "0n7rc"!!
+Error happen at line 94, cannot find item "f67e"!!
+Error happen at line 106, cannot find item "qolnf"!!
+Player: 3aho9d240usqwhi8qsc2dio4nemi5
+Total: -3611 689 -1248

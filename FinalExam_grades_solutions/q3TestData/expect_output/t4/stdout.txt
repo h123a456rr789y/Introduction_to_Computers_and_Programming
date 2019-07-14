@@ -1,0 +1,18 @@
+Load items from items.txt: 
+Error happen at line 1, too few effect values!!
+Error happen at line 3, too few effect values!!
+Error happen at line 7, too few effect values!!
+Error happen at line 11, item "Cap" already exist!!
+Error happen at line 13, too many effect values!!
+Error happen at line 15, too few effect values!!
+Error happen at line 25, item "Cap" already exist!!
+Success load 7 items!!
+
+Calculate total effects from player.txt: 
+Error happen at line 8, cannot find item "Swordd"!!
+Error happen at line 16, cannot find item "Ring2"!!
+Error happen at line 19, cannot find item "Ring"!!
+Error happen at line 24, cannot find item "Blade"!!
+Error happen at line 26, cannot find item "Bladee"!!
+Player: Evangelos Clint Sala
+Total: 248 217 205

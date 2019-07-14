@@ -1,0 +1,6 @@
+  Dagger 100  50  10
+     Cap  10  20  30
+   Blade   9   5   7
+Necklace  50  60  70
+   Sword  20   0   0
+   Armor  10  10  10

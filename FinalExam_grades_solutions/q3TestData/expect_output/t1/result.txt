@@ -1,0 +1,8 @@
+Player: Bob
+     Cap   4   5   6
+Necklace  50   7   5
+Necklace  50   7   5
+   Armor  10  10  10
+   Sword  20   1   0
+--------------------
+  Total: 134  30  26

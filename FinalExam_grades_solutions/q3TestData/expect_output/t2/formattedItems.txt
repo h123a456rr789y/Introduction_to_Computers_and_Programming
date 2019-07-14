@@ -1,0 +1,4 @@
+     Cap  -5  20  30
+   Sword  20   0   0
+  Dagger 100  50  30
+   Armor  10  10  10

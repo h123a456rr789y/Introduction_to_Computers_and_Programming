@@ -1,0 +1,13 @@
+Load items from items.txt: 
+Error happen at line 1, too few effect values!!
+Error happen at line 3, too few effect values!!
+Error happen at line 5, item "Cap" already exist!!
+Error happen at line 6, too many effect values!!
+Error happen at line 8, item "Cap" already exist!!
+Success load 4 items!!
+
+Calculate total effects from player.txt: 
+Error happen at line 7, cannot find item "Ring"!!
+Error happen at line 10, cannot find item "Blade"!!
+Player: Bob
+Total: 115  90  80

@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1483842857 source:d:\google drive\2016_cµ{\final (170111_ch2-22)\scrap\q_2\calc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calc.h"
+	"stack.h"
+
+1483717653 d:\google drive\2016_cµ{\final (170111_ch2-22)\scrap\q_2\calc.h
+
+1483717653 d:\google drive\2016_cµ{\final (170111_ch2-22)\scrap\q_2\stack.h
+
+1483719839 source:d:\google drive\2016_cµ{\final (170111_ch2-22)\scrap\q_2\load.c
+	<stdio.h>
+	"stack.h"
+
+1483717653 source:d:\google drive\2016_cµ{\final (170111_ch2-22)\scrap\q_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"load.h"
+	"calc.h"
+
+1483717653 d:\google drive\2016_cµ{\final (170111_ch2-22)\scrap\q_2\load.h
+
+1483842873 source:d:\google drive\2016_cµ{\final (170111_ch2-22)\scrap\q_2\stack.c
+	<stdio.h>
+	<string.h>
+	"stack.h"
+
+1483842857 source:c:\users\ed\google ¶³ºÝµwºÐ\2016_cµ{\final (170111_ch2-22)\scrap\q_2\calc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calc.h"
+	"stack.h"
+
+1483717653 c:\users\ed\google ¶³ºÝµwºÐ\2016_cµ{\final (170111_ch2-22)\scrap\q_2\calc.h
+
+1483717653 c:\users\ed\google ¶³ºÝµwºÐ\2016_cµ{\final (170111_ch2-22)\scrap\q_2\stack.h
+
+1483719839 source:c:\users\ed\google ¶³ºÝµwºÐ\2016_cµ{\final (170111_ch2-22)\scrap\q_2\load.c
+	<stdio.h>
+	"stack.h"
+
+1483717653 source:c:\users\ed\google ¶³ºÝµwºÐ\2016_cµ{\final (170111_ch2-22)\scrap\q_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"load.h"
+	"calc.h"
+
+1483717653 c:\users\ed\google ¶³ºÝµwºÐ\2016_cµ{\final (170111_ch2-22)\scrap\q_2\load.h
+
+1483842873 source:c:\users\ed\google ¶³ºÝµwºÐ\2016_cµ{\final (170111_ch2-22)\scrap\q_2\stack.c
+	<stdio.h>
+	<string.h>
+	"stack.h"
+

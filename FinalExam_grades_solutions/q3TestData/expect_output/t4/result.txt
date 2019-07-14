@@ -1,0 +1,9 @@
+Player: Evangelos Clint Sala
+     Cap  -5  20  30
+Necklace  50  50  60
+  Sword2   3   7   5
+   Armor  10  10  10
+ Dagger2  90  80  70
+  Dagger 100  50  30
+--------------------
+  Total: 248 217 205

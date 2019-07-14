@@ -1,0 +1,8 @@
+Load items from items.txt: 
+Error happen at line 3, item "Cap" already exist!!
+Error happen at line 15, item "Dagger" already exist!!
+Success load 6 items!!
+
+Calculate total effects from player.txt: 
+Player: Evangelos Sala
+Total: 220 200 190

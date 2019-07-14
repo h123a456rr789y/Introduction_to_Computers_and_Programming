@@ -1,0 +1,8 @@
+Player: Evangelos Sala
+     Cap  10  20  30
+Necklace  50  60  70
+Necklace  50  60  70
+   Armor  10  10  10
+  Dagger 100  50  10
+--------------------
+  Total: 220 200 190

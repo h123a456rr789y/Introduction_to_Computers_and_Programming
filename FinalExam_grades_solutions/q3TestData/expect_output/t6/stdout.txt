@@ -1,0 +1,61 @@
+Load items from items.txt: 
+Error happen at line 1, too many effect values!!
+Error happen at line 4, too many effect values!!
+Error happen at line 16, too few effect values!!
+Error happen at line 218, too few effect values!!
+Error happen at line 1428, item "3cq" already exist!!
+Error happen at line 1457, too few effect values!!
+Error happen at line 2103, item "rff" already exist!!
+Error happen at line 2892, item "r0k7" already exist!!
+Error happen at line 3053, item "s03" already exist!!
+Error happen at line 3187, item "xlsv" already exist!!
+Error happen at line 3346, too many effect values!!
+Error happen at line 4537, item "apr" already exist!!
+Error happen at line 4669, item "dte" already exist!!
+Error happen at line 4916, item "z90" already exist!!
+Error happen at line 4993, item "an8qg" already exist!!
+Error happen at line 5176, item "6l3" already exist!!
+Error happen at line 5263, too few effect values!!
+Error happen at line 5530, item "bdg1" already exist!!
+Error happen at line 6075, item "9bz" already exist!!
+Error happen at line 6302, item "02uqb2t" already exist!!
+Error happen at line 6317, too many effect values!!
+Error happen at line 6590, item "ks6" already exist!!
+Error happen at line 6613, item "5w2" already exist!!
+Error happen at line 6628, item "h2x" already exist!!
+Error happen at line 6807, item "tno" already exist!!
+Error happen at line 6820, item "yqd" already exist!!
+Error happen at line 6864, item "jv6" already exist!!
+Error happen at line 6993, item "su790" already exist!!
+Error happen at line 7027, item "ath" already exist!!
+Error happen at line 7068, item "krf" already exist!!
+Error happen at line 7597, item "u3s" already exist!!
+Error happen at line 7930, item "snr" already exist!!
+Error happen at line 7965, item "t1p" already exist!!
+Error happen at line 8120, item "cnh" already exist!!
+Error happen at line 8191, item "16nkgn" already exist!!
+Error happen at line 8228, item "0c7" already exist!!
+Error happen at line 8304, too few effect values!!
+Error happen at line 8387, item "cz4g" already exist!!
+Error happen at line 8612, item "qz8" already exist!!
+Error happen at line 8674, too few effect values!!
+Error happen at line 8680, item "8jf" already exist!!
+Error happen at line 8932, item "bts" already exist!!
+Error happen at line 8964, too many effect values!!
+Error happen at line 9171, item "gm4" already exist!!
+Error happen at line 9211, too few effect values!!
+Error happen at line 9551, item "xlz" already exist!!
+Error happen at line 9577, item "5rr" already exist!!
+Error happen at line 10084, item "3vxyd6" already exist!!
+Error happen at line 10130, item "690k" already exist!!
+Success load 9954 items!!
+
+Calculate total effects from player.txt: 
+Error happen at line 132, cannot find item "wv8qk"!!
+Error happen at line 680, cannot find item "1axbl"!!
+Error happen at line 802, cannot find item "1axbl"!!
+Error happen at line 883, cannot find item "x375h"!!
+Error happen at line 892, cannot find item "ubcjm"!!
+Error happen at line 933, cannot find item "ubcjm"!!
+Player: 8kv7pft903k11 6opks7i4n5kqu89vxuj4x3
+Total: -6223 -21455 -1395

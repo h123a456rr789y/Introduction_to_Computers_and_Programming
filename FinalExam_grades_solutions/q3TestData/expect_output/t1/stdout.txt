@@ -1,0 +1,6 @@
+Load items from items.txt: 
+Success load 6 items!!
+
+Calculate total effects from player.txt: 
+Player: Bob
+Total: 134  30  26
